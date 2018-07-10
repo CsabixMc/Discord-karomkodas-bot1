@@ -95,7 +95,7 @@ bot.on('message', message => {
 });
 
 //login
-bot.login('NDY1ODEyMTg3MTkwMDAxNjY0.DiS9AA.RoUhzXXMQmaX92GyeRTw4E269jY');
+bot.login(process.env.BOT_TOKEN);
 
 //kesz
 bot.on('ready', () => {
