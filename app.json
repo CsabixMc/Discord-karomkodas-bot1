@@ -1,0 +1,19 @@
+{
+  "name": "Discord-karomkodas-bot1",
+  "description": "",
+  "scripts": {
+  },
+  "env": {
+    "NDY1ODEyMTg3MTkwMDAxNjY0.DiS9AA.RoUhzXXMQmaX92GyeRTw4E269jY": "BOT_TOKEN"
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "node.js"
+    }
+  ]
+}
